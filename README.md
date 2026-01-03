@@ -84,5 +84,6 @@
 | **Views** | UI screens and widgets |
 | **Routes** | Navigation configuration |
 
-## 📂 Project Architecture
+
+
 
